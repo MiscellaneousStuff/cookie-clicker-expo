@@ -1,0 +1,69 @@
+/* MODIFY EXISTING */
+#storeTitle {
+    width: 100% !important;
+}
+
+.storeSection {
+    width: 100% !important;
+    overflow-y: visible !important;
+}
+
+.storeBulk {
+    width: 100% !important;
+}
+
+.storePre {
+    width: 100% !important;
+}
+
+.product {
+    width: 100% !important;
+}
+
+.ifNoAds {
+    width: 100% !important;
+}
+
+#backgroundCanvas {
+    height: 100% !important;
+}
+
+#game {
+    top: 0 !important;
+}
+
+#sectionRight {
+    overflow-y: visible !important;
+    width: 300px !important;
+}
+
+#centerArea {
+    left: 0 !important;
+}
+
+/* ADDITIONAL FUNCTIONALITY */
+.page-tabs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 5rem;
+    box-sizing: border-box;
+    
+    background-color: #000;
+}
+
+.page-tabs__tab {
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+.section--visibility-hidden {
+    /*display: none;*/
+    visibility: hidden;
+}
+
+.section--visibility-visible {
+    /*display: block;*/
+    visibility: visible;
+}
