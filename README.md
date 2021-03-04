@@ -9,7 +9,8 @@ clicker website).
 - [x] Separate the 3 main sections of the page
 - [x] Switch between the 3 main sections of the page
 - [ ] Figure out how to display highlights for different buttons
-- [ ] Resolve touch events for ascending and minigames
+- [ ] Resolve touch events (mainly for ascending and minigames)
+- [ ] Resolve minor css issues (mainly overlay issues going from desktop to mobile)
 - [x] Android testing
   - Turning off all fancy mode graphics and testing on Expo Android emulator
     seemed to have OK enough performance
